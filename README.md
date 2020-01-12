@@ -1,2 +1,2 @@
 # Teaching
-A repo for the material that I've taught
+A repo for teaching materials
